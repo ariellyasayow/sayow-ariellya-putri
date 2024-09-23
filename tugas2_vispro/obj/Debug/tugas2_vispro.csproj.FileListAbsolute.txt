@@ -1,0 +1,7 @@
+C:\Users\RaHuL\Desktop\ariellya\tugas2_vispro\tugas2_vispro\bin\Debug\tugas2_vispro.exe.config
+C:\Users\RaHuL\Desktop\ariellya\tugas2_vispro\tugas2_vispro\bin\Debug\tugas2_vispro.exe
+C:\Users\RaHuL\Desktop\ariellya\tugas2_vispro\tugas2_vispro\bin\Debug\tugas2_vispro.pdb
+C:\Users\RaHuL\Desktop\ariellya\tugas2_vispro\tugas2_vispro\obj\Debug\tugas2_vispro.csproj.AssemblyReference.cache
+C:\Users\RaHuL\Desktop\ariellya\tugas2_vispro\tugas2_vispro\obj\Debug\tugas2_vispro.csproj.CoreCompileInputs.cache
+C:\Users\RaHuL\Desktop\ariellya\tugas2_vispro\tugas2_vispro\obj\Debug\tugas2_vispro.exe
+C:\Users\RaHuL\Desktop\ariellya\tugas2_vispro\tugas2_vispro\obj\Debug\tugas2_vispro.pdb
